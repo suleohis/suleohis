@@ -66,11 +66,11 @@ Welcome to my GitHub Profile — where code is poetry and the bugs are just misu
 
 ---
 
-## What's Next?
+## 🐞 What I'm Currently Debugging
 
-- 🌱 I’m currently diving deeper into advanced state management patterns, CI/CD for Flutter, and scalable backend services.
-- 👯 I’m looking to collaborate on open-source Flutter projects that solve real-world problems.
-- 🤔 I’m always open to discussing Flutter performance, scalable mobile architectures, and anything code-related!
+- 🌱 I’m currently learning: advanced Flutter animations, server-side Dart, and new testing frameworks.
+- 👯 I’m looking to collaborate on: open-source Flutter projects and innovative mobile fintech solutions.
+- 💬 Ask me about: Flutter performance optimization, cross-platform UI/UX, or anything else that keeps you up at night as a developer!
 
 ---
 
