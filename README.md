@@ -59,24 +59,31 @@ Welcome to my GitHub Profile — where code is poetry and the bugs are just misu
 
 ---
 
-## 🤔 Fun Facts
+## 🚀 Featured Projects
 
-- My code compiles on the first try. (After the 17th attempt.)
-- I use dark mode, because light attracts bugs.
-- I put the "pro" in procrastination.
+- **Chef Kiss:** 🧑‍🍳 My Flutter mobile recipe app. It's like having a Michelin-star chef in your pocket, minus the attitude. [Check out the repo here!](https://github.com/suleohis/chef_kiss)
+- **Voice Notepad:** 📝🎤 Speech-to-text note-taking app so even your thoughts can be lazy. [Check out the repo here!](https://github.com/suleohis/voice-notepad)
 
 ---
 
-## 📊 GitHub Stats
+## What's Next?
+
+- 🌱 I’m currently diving deeper into advanced state management patterns, CI/CD for Flutter, and scalable backend services.
+- 👯 I’m looking to collaborate on open-source Flutter projects that solve real-world problems.
+- 🤔 I’m always open to discussing Flutter performance, scalable mobile architectures, and anything code-related!
+
+---
+
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleohis&show_icons=true&theme=tokyonight&title_color=00e19d&icon_color=00e19d&text_color=ffffff&bg_color=22272e" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleohis&theme=tokyonight&background=22272e&ring=00e19d&fire=ffba08&currStreakLabel=00e19d" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=suleohis&show_icons=true&theme=tokyonight&title_color=00e19d&icon_color=00e19d&text_color=ffffff&bg_color=22272e" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleohis&theme=tokyonight&background=22272e&ring=00e19d&fire=ffba08&currStreakLabel=00e19d" alt="GitHub Streak" />
+  </a>
 </p>
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleohis&bg_color=22272e&color=00e19d&line=ffba08&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
@@ -84,6 +91,17 @@ Welcome to my GitHub Profile — where code is poetry and the bugs are just misu
 
 ---
 
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
 <p align="center">
   Feel free to browse my repositories, leave a star, or just send good vibes (or memes).  
 </p>
+
+<!--
+## 📌 Pinned Projects
+
+On my profile page, you'll find my best work pinned for quick access:  
+- Chef Kiss  
+- Voice Notepad  
+- ...and more!
+-->
