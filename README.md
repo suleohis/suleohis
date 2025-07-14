@@ -16,7 +16,7 @@
 
 ---
 
-# 👋 Hi, I'm Ephraim! 🤓
+# 👋 Hi, I'm Ephraim!, a Mid-level Flutter Developer 🤓
 
 Welcome to my GitHub Profile — where code is poetry and the bugs are just misunderstood features.
 
@@ -61,8 +61,8 @@ Welcome to my GitHub Profile — where code is poetry and the bugs are just misu
 
 ## 🚀 Featured Projects
 
-- **Chef Kiss:** 🧑‍🍳 My Flutter mobile recipe app. It's like having a Michelin-star chef in your pocket, minus the attitude. [Check out the repo here!](https://github.com/suleohis/chef_kiss)
-- **Voice Notepad:** 📝🎤 Speech-to-text note-taking app so even your thoughts can be lazy. [Check out the repo here!](https://github.com/suleohis/voice-notepad)
+- **Chef Kiss:** A Flutter mobile recipe app showcasing advanced UI/UX and state management, providing a Michelin-star culinary experience. [Check out the repo here!](https://github.com/suleohis/chef_kiss)
+- **Voice Notepad:** A Flutter speech-to-text note-taking app demonstrating efficient audio processing and local storage solutions. [Check out the repo here!](https://github.com/suleohis/voice-notepad)
 
 ---
 
