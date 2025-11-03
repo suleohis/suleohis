@@ -56,27 +56,44 @@ Open to **100% remote / EU relocation (visa support)**
 
 ### GetX State Management
 ```dart
-class RecipeController extends GetxController {
-  final recipes = <Recipe>[].obs;
-  
+class RecipeDetailController extends GetxController {
+  MealRepo mealRepo = MealRepo();
+  FirebaseRepo firebaseRepo = FirebaseRepo();
+  final String mealId;
+  RecipeDetailController({required this.mealId});
+  RxInt tabIndex = 0.obs;
+  Meal? meal;
+  YoutubePlayerController? youtubeController;
+  RxBool isLoading = false.obs;
+  UserModel? user;
+  RxBool isBookmark = false.obs;
+
+
   @override
   void onInit() {
-    fetchRecipes(); // Dio → Laravel API
     super.onInit();
+    getRecipeData();
   }
-}
 
 // UI
-Obx(() => ListView.builder(
-  itemCount: controller.recipes.length,
-  itemBuilder: (_, i) => RecipeCard(controller.recipes[i]),
-))
+RefreshIndicator(
+  onRefresh: () => controller.onRefresh(),
+  child: Obx(
+  () =>
+    controller.isLoading.value || controller.meal == null
+        ? RecipeDetailShimmer()
+        : RecipeDetailBody(controller: controller),
+    ),
+  ),
 
 //Laravel API Call (Flutter → Backend)
-final response = await dio.get(
-  '/api/recipes',
-  options: Options(headers: {'Authorization': 'Bearer $token'}),
-);
+  Response response = await _dio.get(endpoint, queryParameters: params);
+  return ResponseModel(
+    isSuccess: true,
+    message: response.data.toString(),
+    statusCode: response.statusCode ?? 200,
+    responseJson: response.data,
+  );
 ```
 
 ```php
