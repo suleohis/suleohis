@@ -48,6 +48,7 @@ Open to **100% remote / EU relocation (visa support)**
 
 ## 🚀 Featured Projects
 
+- **FlickNova:** Netflix-style movie & series discovery app showcasing modern Flutter UI/UX, Riverpod, Isar offline storage, and TMDB integration. [Check out the repo here!](https://github.com/suleohis/flicknova)
 - **Chef Kiss:** A Flutter mobile recipe app showcasing advanced UI/UX and state management, providing a Michelin-star culinary experience. [Check out the repo here!](https://github.com/suleohis/chef_kiss)
 - **Voice Notepad:** A Flutter speech-to-text note-taking app demonstrating efficient audio processing and local storage solutions. [Check out the repo here!](https://github.com/suleohis/voice-notepad)
 
