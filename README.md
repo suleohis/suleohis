@@ -15,7 +15,7 @@
 # 👋 Hi, I'm Ephraim — Mid-level Flutter Developer (4+ yrs)
 
 **99% crash-free apps** • **20%↑ engagement** • **Full-stack: Flutter + Laravel**  
-Open to **100% remote / EU relocation (visa support)**
+Open to **100% remote**
 
 ---
 
