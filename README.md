@@ -117,10 +117,10 @@ Route::middleware('auth:api')->get('/recipes', [RecipeController::class, 'index'
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=suleohis&show_icons=true&theme=tokyonight&title_color=00e19d&icon_color=00e19d&text_color=ffffff&bg_color=22272e" alt="GitHub Stats" />
-  </a>
+  <!-- </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleohis&theme=tokyonight&background=22272e&ring=00e19d&fire=ffba08&currStreakLabel=00e19d" alt="GitHub Streak" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
